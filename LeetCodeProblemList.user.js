@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LeetCode Problem List Enhancer
-// @namespace    https://github.com/alaska.alex/leetcode-score
+// @namespace    https://github.com/alaskaalex/leetcode-score
 // @version      1.0.0
 // @description  Enhances LeetCode's problem list with additional features like filtering, sorting, and progress tracking. Companion to LeetCodeScore.js
 // @author       Alexander Stek

@@ -25,8 +25,8 @@ A collection of Tampermonkey scripts to enhance your LeetCode experience with pr
    - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. Install the scripts:
-   - [LeetCode Score](https://raw.githubusercontent.com/alaska.alex/leetcode-score/main/LeetCodeScore.user.js)
-   - [LeetCode Problem List Enhancer](https://raw.githubusercontent.com/alaska.alex/leetcode-score/main/LeetCodeProblemList.user.js)
+   - [LeetCode Score](https://github.com/alaskaalex/leetcode-score/raw/refs/heads/main/LeetCodeScore.user.js)
+   - [LeetCode Problem List Enhancer](https://github.com/alaskaalex/leetcode-score/raw/refs/heads/main/LeetCodeProblemList.user.js)
 
    Click the links above and Tampermonkey will prompt you to install the scripts.
 

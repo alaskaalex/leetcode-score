@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LeetCode Progress Tracker
-// @namespace    https://github.com/alaska.alex/leetcode-score
+// @namespace    https://github.com/alaskaalex/leetcode-score
 // @version      1.0.0
 // @description  Track your LeetCode progress with detailed statistics, solve times, and success rates
 // @author       Alexander Stek
