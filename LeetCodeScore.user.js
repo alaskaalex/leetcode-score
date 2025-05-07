@@ -806,7 +806,17 @@ function weekEnding(endDate) {
 }
 
 function forever(){
-    return new Date("December 8, 2024 00:00:00");
+    let startDate = gets("start_date");
+    if (!startDate) {
+        // If no start date is set, use the Sunday before today
+        const today = new Date();
+        const day = today.getDay();
+        const diff = today.getDate() - day + (day === 0 ? -6 : 1); // Adjust for Sunday
+        startDate = new Date(today.setDate(diff));
+        startDate.setHours(0, 0, 0, 0);
+        sets("start_date", startDate.toISOString());
+    }
+    return new Date(startDate);
 }
 
 function makeButton(icon, id) {
