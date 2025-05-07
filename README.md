@@ -1,6 +1,9 @@
 # LeetCode Tools
 
-A collection of Tampermonkey scripts to enhance your LeetCode experience with problem tracking, timing, and progress visualization.
+A collection of Tampermonkey scripts to enhance your LeetCode experience with progress tracking, statistics, and problem list improvements.
+
+![Scorecard Screenshot](score.png)
+![Problem List Screenshot](list.png)
 
 ## Features
 
@@ -24,11 +27,11 @@ Note: Right now the script is only fully functional on *Chrome*!
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser:
    - [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-2. Install the scripts:
+2. Enable [Developer Mode](https://www.tampermonkey.net/faq.php#Q209) in Chrome to run the script.
+
+3. Install the scripts by clicking these links:
    - [LeetCode Score](https://github.com/alaskaalex/leetcode-score/raw/refs/heads/main/LeetCodeScore.user.js)
    - [LeetCode Problem List Enhancer](https://github.com/alaskaalex/leetcode-score/raw/refs/heads/main/LeetCodeProblemList.user.js)
-
-   Click the links above and Tampermonkey will prompt you to install the scripts.
 
 ## Usage
 
