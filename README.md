@@ -19,10 +19,10 @@ A collection of Tampermonkey scripts to enhance your LeetCode experience with pr
 
 ## Installation
 
+Note: Right now the script is only fully functional on *Chrome*!
+
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser:
    - [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. Install the scripts:
    - [LeetCode Score](https://github.com/alaskaalex/leetcode-score/raw/refs/heads/main/LeetCodeScore.user.js)
