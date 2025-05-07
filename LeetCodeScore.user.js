@@ -3,7 +3,7 @@
 // @namespace    https://github.com/alaskaalex/leetcode-score
 // @version      1.0.0
 // @description  Track your LeetCode progress with detailed statistics, solve times, and success rates
-// @author       Alexander Stek
+// @author       alaskaalex
 // @match        https://leetcode.com/problems/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leetcode.com
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js

@@ -3,7 +3,7 @@
 // @namespace    https://github.com/alaskaalex/leetcode-score
 // @version      1.0.0
 // @description  Enhances LeetCode's problem list with additional features like filtering, sorting, and progress tracking. Companion to LeetCodeScore.js
-// @author       Alexander Stek
+// @author       alaskaalex
 // @match        https://leetcode.com/problemset/*
 // @match        https://leetcode.com/studyplan/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leetcode.com
